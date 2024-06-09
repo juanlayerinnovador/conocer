@@ -1,0 +1,32 @@
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   background: url("http://3.bp.blogspot.com/-emc5x6iZ7Pg/Tny3wVQTSZI/AAAAAAAABY4/jbm3cM7XQ6A/s1600/Mariposas%252525201280x800%25255B1%25255D.jpg");
+}
+.favicon h1{
+
+background-color: blueviolet;
+color: bisque; 
+font-size: 4rem;  
+font-style: oblique;
+
+}
+.favicon h2{
+    color: rgb(255, 127, 144);
+    font-style: oblique;
+    font-size: 30px;
+}
+.favicon p {
+    color: rgb(6, 21, 21);
+font-size: 1.8rem;
+}
+
+.favicon  li {
+
+    color: blueviolet;
+    font-size: 40px;
+}
+
